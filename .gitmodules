@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "CytobankAPI"]
+	path = CytobankAPI
+	url = https://github.com/cran/CytobankAPI
